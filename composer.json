@@ -1,0 +1,17 @@
+{
+  "name": "nfq/akademija",
+  "authors": [
+    {
+      "name": "Eligijus Kiudys",
+      "email": "16387384+EligijusK@users.noreply.github.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.3.8"
+  },
+  "autoload": {
+    "psr-4": {
+      "Nfq\\Akademija\\": "src/"
+    }
+  }
+}
